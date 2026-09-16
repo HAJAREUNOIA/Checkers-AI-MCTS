@@ -1,0 +1,5 @@
+iter_faible,winrate_forte_%,temps_moy_s,coups_moy,nuls,wins_forte,wins_faible
+100,60.0,4.781,91.0,2,12,6
+300,60.0,2.306,99.7,2,12,6
+600,45.0,2.351,111.8,5,9,6
+800,35.0,2.696,93.5,3,7,10
